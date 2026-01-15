@@ -11,14 +11,14 @@ Next.js 16 Caching: Implements a completely new approach to caching for improved
 PostHog Analytics: Tracks user interactions and events, providing detailed insights into app usage and behavior.
 
 
-### Tech Stack
+## Tech Stack
 **Next.js** - Js framework
 **Tailwind** - CSS framework
 **PostHog** - Product analytic
 **PostgreSQL** - No SQL database
 
 
-#### What I Learned
+## What I Learned
 Next.js basics,how to integrate PostHog database,styling using Tailwind 
 
 
