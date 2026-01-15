@@ -3,12 +3,12 @@ This project is build for people interested in dev events and want an website wh
 
 
 ## Features
- Home Page: Displays a dynamic list of events, allowing users to browse upcoming and featured events easily.
- API Routes: Create, update, delete, and fetch events from the database with fully functional endpoints.
- Cloudinary Integration: Use the Cloudinary SDK to easily upload and manage images in the cloud.
- Event Details Page: Shows event information with the ability to register and view a list of similar events.
- Next.js 16 Caching: Implements a completely new approach to caching for improved performance and faster page loads.
- PostHog Analytics: Tracks user interactions and events, providing detailed insights into app usage and behavior.
+Home Page: Displays a dynamic list of events, allowing users to browse upcoming and featured events easily.
+API Routes: Create, update, delete, and fetch events from the database with fully functional endpoints.
+Cloudinary Integration: Use the Cloudinary SDK to easily upload and manage images in the cloud.
+Event Details Page: Shows event information with the ability to register and view a list of similar events.
+Next.js 16 Caching: Implements a completely new approach to caching for improved performance and faster page loads.
+PostHog Analytics: Tracks user interactions and events, providing detailed insights into app usage and behavior.
 
 
 ### Tech Stack
@@ -18,7 +18,7 @@ This project is build for people interested in dev events and want an website wh
 **PostgreSQL** - No SQL database
 
 
-### What I Learned
+#### What I Learned
 Next.js basics,how to integrate PostHog database,styling using Tailwind 
 
 
