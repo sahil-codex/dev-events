@@ -1,5 +1,5 @@
 # DevEvents
-This project is build for people interested in dev events and want an website which gave them all the information they require to go to an event , This project is build with Next.js ,Tailwind for styling ,PostgreSQL for database and PostHog to track user actions.
+This project is build for people interested in dev events and want a website which give them all the information they require to go to an event , This project is build with Next.js ,Tailwind for styling ,PostgreSQL for database and PostHog to track user actions.
 
 
 ## Features
